@@ -1,4 +1,4 @@
-# 🔐 Login & Registration System (C++)
+# 🔐 Login System (C++)
 
 A clean, modular, and file-based **User Authentication System** implemented in C++.  
 This project demonstrates secure user management techniques using basic file handling operations.
